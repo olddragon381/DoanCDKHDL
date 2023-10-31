@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "504222651311",
-    "project_id": "chatchat-63355",
-    "storage_bucket": "chatchat-63355.appspot.com"
+    "project_number": "631126025050",
+    "firebase_url": "https://doancdkhdl-default-rtdb.firebaseio.com",
+    "project_id": "doancdkhdl",
+    "storage_bucket": "doancdkhdl.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:504222651311:android:0b08629fc9f68710b1955a",
+        "mobilesdk_app_id": "1:631126025050:android:c4d8571a36b0343a710963",
         "android_client_info": {
           "package_name": "com.example.chatchat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "504222651311-ffprmhrd1htk9tevtsu32meji91tcqmi.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.chatchat",
-            "certificate_hash": "60e577cbd980ff9f3c40e0fbe74be641e2cc27ce"
-          }
-        },
-        {
-          "client_id": "504222651311-8fnri43r62k1vpsl7f5o6f71ujarpuqe.apps.googleusercontent.com",
+          "client_id": "631126025050-gea2jcmcbq2sn5qhdodh9m2svmg7pmck.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAl9jrCCTKDKm1n2mOUtZPefPMyHoO1NcU"
+          "current_key": "AIzaSyDRlZ51Nq3EqJNf-zdmmuZknhtSNNV_43g"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "504222651311-8fnri43r62k1vpsl7f5o6f71ujarpuqe.apps.googleusercontent.com",
+              "client_id": "631126025050-gea2jcmcbq2sn5qhdodh9m2svmg7pmck.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

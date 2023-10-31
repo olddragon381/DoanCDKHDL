@@ -52,7 +52,6 @@ class _HomeScreenState extends State<HomeScreen> {
       });
     });
 
-// geeting the list of snapshot in our stream
     await DatabaseService(uid: FirebaseAuth.instance.currentUser!.uid)
         .getUserGroups()
         .then((snapshot) {

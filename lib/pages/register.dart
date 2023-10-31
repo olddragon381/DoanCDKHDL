@@ -180,6 +180,7 @@ class _RegisterpageState extends State<Registerpage> {
           await HelperFunction.saveUserEmailSF(email);
           await HelperFunction.saveUserNameSF(fullName);
           nextScreenReplace(context, const HomeScreen());
+
         } else {
           showSnaksbar(context, Colors.red, value);
           setState(() {
